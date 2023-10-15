@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Micro_Mouse/static/css/main.4064710e.chunk.css",
-    "main.js": "/Micro_Mouse/static/js/main.0f116b66.chunk.js",
-    "main.js.map": "/Micro_Mouse/static/js/main.0f116b66.chunk.js.map",
-    "runtime-main.js": "/Micro_Mouse/static/js/runtime-main.5fa574c5.js",
-    "runtime-main.js.map": "/Micro_Mouse/static/js/runtime-main.5fa574c5.js.map",
-    "static/js/2.f0583ba6.chunk.js": "/Micro_Mouse/static/js/2.f0583ba6.chunk.js",
-    "static/js/2.f0583ba6.chunk.js.map": "/Micro_Mouse/static/js/2.f0583ba6.chunk.js.map",
-    "index.html": "/Micro_Mouse/index.html",
-    "precache-manifest.51f4fc6d05126001879aa4bf5446d787.js": "/Micro_Mouse/precache-manifest.51f4fc6d05126001879aa4bf5446d787.js",
-    "service-worker.js": "/Micro_Mouse/service-worker.js",
-    "static/css/main.4064710e.chunk.css.map": "/Micro_Mouse/static/css/main.4064710e.chunk.css.map"
+    "main.css": "/Grid_Pathfinder/static/css/main.4064710e.chunk.css",
+    "main.js": "/Grid_Pathfinder/static/js/main.a9718f49.chunk.js",
+    "main.js.map": "/Grid_Pathfinder/static/js/main.a9718f49.chunk.js.map",
+    "runtime-main.js": "/Grid_Pathfinder/static/js/runtime-main.6dc90d67.js",
+    "runtime-main.js.map": "/Grid_Pathfinder/static/js/runtime-main.6dc90d67.js.map",
+    "static/js/2.f0583ba6.chunk.js": "/Grid_Pathfinder/static/js/2.f0583ba6.chunk.js",
+    "static/js/2.f0583ba6.chunk.js.map": "/Grid_Pathfinder/static/js/2.f0583ba6.chunk.js.map",
+    "index.html": "/Grid_Pathfinder/index.html",
+    "precache-manifest.cba557c93b3123aff0f3183af5e6058a.js": "/Grid_Pathfinder/precache-manifest.cba557c93b3123aff0f3183af5e6058a.js",
+    "service-worker.js": "/Grid_Pathfinder/service-worker.js",
+    "static/css/main.4064710e.chunk.css.map": "/Grid_Pathfinder/static/css/main.4064710e.chunk.css.map"
   }
 }
